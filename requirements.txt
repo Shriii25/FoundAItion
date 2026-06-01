@@ -1,0 +1,7 @@
+flask
+opencv-python
+numpy
+pandas
+scikit-learn
+scikit-image
+dlib-20.0.99-cp313-cp313-win_amd64.whl
